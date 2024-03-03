@@ -2532,11 +2532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pvb/MyProjects/DatingApp/API/API.csproj",
+      "projectUniqueName": "/Users/pvb/MyProjects/Dating-App/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/pvb/MyProjects/DatingApp/API/API.csproj",
+      "projectPath": "/Users/pvb/MyProjects/Dating-App/API/API.csproj",
       "packagesPath": "/Users/pvb/.nuget/packages/",
-      "outputPath": "/Users/pvb/MyProjects/DatingApp/API/obj/",
+      "outputPath": "/Users/pvb/MyProjects/Dating-App/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pvb/.nuget/NuGet/NuGet.Config"
